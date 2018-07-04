@@ -14,7 +14,7 @@ Estas representaciones diferentes de valores se denominan **'tipos'** en la term
 * Cuando necesite imprimir un valor en la pantalla, necesita una `cadena de caracteres` \(uno o más caracteres, palabras, oraciones\).
 * Cuando necesite tomar una decisión en su programa, necesita un `booleano` \(verdadero o falso\).
 
-Los valores que se incluyen directamente en el código fuente se llaman literales. Las `cadenas` literales están rodeados por comillas dobles **"..."** o comillas simples **'...'** - la única diferencia es la preferencia estilística. Los literales `número` y `booleanos`` se presentan tal cual \(es decir, **42**, **true**, etc.\).
+Los valores que se incluyen directamente en el código fuente se llaman literales. Las `cadenas` literales están rodeados por comillas dobles **"..."** o comillas simples **'...'** - la única diferencia es la preferencia estilística. Los literales `número` y `booleanos` se presentan tal cual \(es decir, **42**, **true**, etc.\).
 
 Examine esto:
 
