@@ -1,10 +1,10 @@
 # 1.10 Funciones
 
-El empleado de la tienda de teléfonos probablemente no lleva consigo una calculadora para calcular los impuestos y la cantidad final de la compra. Esa es una tarea que necesita definir una vez y reutilizar una y otra vez. Las probabilidades son, que la empresa tenga un registro de pago \(computadora, tableta, etc.\) con esas "funciones" incorporadas.
+El empleado de la tienda de teléfonos probablemente no lleva consigo una calculadora para calcular los impuestos y la cantidad final de la compra. Esa es una tarea que necesita definir una vez y reutilizarla una y otra vez. Lo más probable es, que la compañía tenga una caja registradora \(computadora, tableta, etc.\) con esas "funciones" incorporadas.
 
-Del mismo modo, su programa casi seguramente querrá dividir las tareas del código en piezas reutilizables, en lugar de repetir repetidamente repetidamente \(juego de palabras!\). La forma de hacerlo es definir una función.
+Del mismo modo, su programa casi seguramente querrá dividir las tareas del código en piezas reutilizables, en lugar de repetirse repetidamente de forma repetida \(juego de palabras!\). La forma de hacerlo es definir una función.
 
-Una función es generalmente una sección con el nombre del código que puede ser "llamada" por ese nombre, y el código dentro de ella se ejecutará cada vez que se llama. Considere:
+Una función es generalmente una sección con el nombre del código que puede ser "llamada" por ese nombre, y el código dentro de ella se ejecutará cada vez que se llama. Examine esto:
 
 ```js
 function printAmount() {
@@ -41,9 +41,9 @@ console.log( amount );			// "$99.99"
 
 La función `printAmount(..)` toma un parámetro que llamamos `amt`. La función `formatAmount()` devuelve un valor. Por supuesto, también puedes combinar esas dos técnicas en la misma función.
 
-Las funciones se usan a menudo para el código que se planea llamar varias veces, pero también pueden ser útiles sólo para organizar fragmentos de código relacionados en las colecciones con nombre, incluso si sólo planea llamarlas una vez.
+Las funciones se usan co frecuencia con el codigo que piensa 'llamar' repetidamente, pero también pueden ser útiles para organizar fragmentos de código relacionados en colecciones con nombre, incluso si sólo piensa llamarlas una vez.
 
-Considere:
+Examine esto:
 
 ```js
 const TAX_RATE = 0.08;
@@ -63,7 +63,7 @@ amount = calculateFinalPurchaseAmount( amount );
 console.log( amount.toFixed( 2 ) );		// "107.99"
 ```
 
-Aunque `calculateFinalPurchaseAmount(..)` sólo se llama una vez, organizar su comportamiento en una función denominada separadamente hace que el código que utiliza su lógica \(la declaración `amount = calculateFinal...` \) más limpia. Si la función tenía más declaraciones en ella, los beneficios serían aún más pronunciados.
+Aunque `calculateFinalPurchaseAmount(..)` solo se llama una vez, organizar su funcionamiento ,en una función con nombre, por separado hace que el código que usa su lógica \(la declaración `amount = calculateFinal...`\) sea más limpio. Si la función tuviera más declaraciones, los beneficios serían aún más pronunciados.
 
 
 

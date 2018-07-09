@@ -1,19 +1,19 @@
 # 1.12 Práctica
 
-No hay absolutamente ningún sustituto para la práctica en el aprendizaje de la programación. Ninguna cantidad de escritura articulada de mi parte harà por si sola de usted un buen programador.
+No hay absolutamente ningún sustituto para la práctica en el aprendizaje de la programación. Ninguna cantidad de escritos bien articulados por mi parte seran lo único que te convertirá en un buen programador.
 
-Con esto en mente, intentemos practicar algunos de los conceptos que hemos aprendido aquí en este capítulo. Daré los "requisitos", y lo intentarás primero. Luego consulte la lista de códigos que hay a continuación para ver cómo me llegué a ella.
+Con esto en mente, intentemos practicar algunos de los conceptos que hemos aprendido en este capítulo. Daré los "requisitos", y lo intentarás primero. Luego consulte la lista de códigos que hay a continuación para ver cómo lo enfoque.
 
 * Escriba un programa para calcular el precio total de la compra de su teléfono. Usted continuará comprando teléfonos \(sugerencia: loop!\) Hasta que se quede sin dinero en su cuenta bancaria. También comprará accesorios para cada teléfono, siempre y cuando su cantidad de compra esté por debajo de su umbral de gasto mental.
 * Después de haber calculado el importe de su compra, agregue el impuesto y, a continuación, imprima el importe de compra calculado, correctamente formateado.
-* Por último, compruebe la cantidad en contra del saldo de su cuenta bancaria para ver si se lo puede permitir o no.
+* Por último, compruebe la cantidad con el saldo de su cuenta bancaria para ver si se lo puede permitir o no.
 * Debe establecer algunas constantes para la "tasa de impuesto", "precio de teléfono", "precio de accesorio" y "umbral de gasto", así como una variable para su "saldo de cuenta bancaria". "
 * Debe definir funciones para calcular el impuesto y para formatear el precio con un "$" y redondear a dos decimales.
-* Desafío de bonificación: Trate de incorporar la entrada a este programa, tal vez con el `prompt(..)` cubierto en la "Entrada" anterior. Por ejemplo, puede solicitar al usuario el saldo de su cuenta bancaria. ¡Diviértase y sea creativo!
+* Desafío de bonificación: Trate de incorporar una entrada de datos a este programa, tal vez con el `prompt(..)` cubierto en la "Entrada" anterior. Por ejemplo, puede solicitar al usuario el saldo de su cuenta bancaria. ¡Diviértase y sea creativo!
 
-OK, adelante. Intentalo. ¡No eche un vistazo a mi lista de códigos hasta que lo haya intentado usted mismo!
+OK, adelante. Intentalo. ¡No eche un vistazo a la lista de códigos hasta que lo haya intentado usted mismo!
 
-Nota: Debido a que este es un libro de JavaScript, obviamente voy a resolver el ejercicio de práctica en JavaScript. Pero usted puede hacerlo en otro idioma por ahora si se siente más cómodo.
+Nota: Debido a que este es un libro de JavaScript, obviamente voy a resolver el ejercicio de práctica en JavaScript. Pero usted puede por ahora hacerlo en otro lenguaje si se siente más cómodo.
 
 Aquí está mi solución de JavaScript para este ejercicio:
 
@@ -62,9 +62,9 @@ if (amount > bank_balance) {
 // You can't afford this purchase. :(
 ```
 
-Nota: La forma más sencilla de ejecutar este programa JavaScript es escribirlo en la consola de desarrollo de su navegador más cercano.
+**Nota**: La forma más sencilla de ejecutar este programa JavaScript es escribirlo en la consola de desarrollo de su navegador favorito.
 
-¿Como hiciste? No haría daño intentarlo otra vez ahora que usted ha visto mi código. Y jugar con el cambio de algunas de las constantes para ver cómo se ejecuta el programa con diferentes valores.
+¿Como lo hiciste? No te haría daño intentarlo otra vez ahora que has visto mi código. Y jugar con el cambio de algunas de las constantes para ver cómo se ejecuta el programa con diferentes valores.
 
 
 
