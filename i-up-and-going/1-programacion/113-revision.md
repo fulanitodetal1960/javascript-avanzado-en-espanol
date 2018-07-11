@@ -1,6 +1,6 @@
 # 1.13 - Revisión
 
-El aprendizaje de programación no tiene que ser un proceso complejo y abrumador. Sólo hay algunos conceptos básicos que necesita retener en la cabeza.
+El aprendizaje de la programación no tiene que ser un proceso complejo y abrumador. Sólo hay algunos conceptos básicos que necesita retener en la cabeza.
 
 Estos actúan como bloques de construcción. Para construir una torre alta, empiece primero apilando bloques uno encima de otro. Lo mismo ocurre con la programación. Éstos son algunos de los elementos fundamentales de la programación:
 
