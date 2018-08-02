@@ -4,7 +4,7 @@ Otro concepto muy comúnmente mal entendido en JavaScript es el identificador `t
 
 Aunque a menudo parece que `this` está relacionado con "patrones orientados a objetos", en JS este es un mecanismo diferente.
 
-Si una función tiene una referencia `this` dentro de ella, esa referencia `this` normalmente apunta a un `object`. Pero el `object` al que apunta depende de cómo se llamó la función.
+Si una función tiene una referencia `this` dentro de ella, esa referencia `this` normalmente apunta a un `object`. Pero el `object` al que apunta depende de cómo se llame a la función.
 
 Es importante darse cuenta de que `this` no se refiere a la función en sí, y ése es el error más común.
 
@@ -34,7 +34,7 @@ foo.call( obj2 );		// "obj2"
 new foo();			// undefined
 ```
 
-Hay cuatro reglas para cómo se establece `this`, y se muestran en las cuatro últimas líneas de ese fragmento.
+Existen cuatro reglas para configurar `this`, y se muestran en las cuatro últimas líneas del fragmento anterior.
 
 1. `foo()` termina configurando `this` para el objeto global en modo no estricto - en modo estricto, esto sería `undefined` y obtendría un error en el acceso a la propiedad `bar` - por lo que "`global`" es el valor encontrado para este `.bar`.
 2. `obj1.foo()` establece `this` en el object `obj1`.
@@ -44,8 +44,3 @@ Hay cuatro reglas para cómo se establece `this`, y se muestran en las cuatro ú
 En pocas palabras: para entender a qué se refiere `this`, hay que examinar cómo se llamó la función en cuestión. Será una de esas cuatro maneras que acabamos de mostrar, y eso responderá a lo que es `this`.
 
 Nota: Para obtener más información al respecto, consulte los capítulos 1 y 2 del título This y Objetos Prototipos de esta serie.
-
-
-
-
-

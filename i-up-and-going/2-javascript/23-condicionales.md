@@ -1,6 +1,6 @@
 # 2.3 Condicionales
 
-Además de la declaración `if` que introdujimos brevemente en el Capítulo 1, JavaScript proporciona algunos otros mecanismos condicionales a los que deberíamos echar un vistazo.
+Además de la declaración `if` que introdujimos brevemente en el Capítulo 1, JavaScript proporciona más mecanismos condicionales a los que deberíamos echar un vistazo.
 
 A veces se puede encontrar escribiendo una serie de declaraciones `if..else..if` como esta:
 
@@ -37,7 +37,7 @@ switch (a) {
 }
 ```
 
-El `break` es importante si sólo desea que se ejecute la instrucción\(es\) en un `case` \(caso\). Si omite el `break` de un `case`, y ese `case` coincide o se ejecuta, la ejecución continuará con las declaraciones del `case` siguiente, independientemente de la coincidencia de ese `case`. A veces, este llamado "caer a través \(fall through\)" es útil/deseado:
+El `break` es importante si sólo desea que se ejecute la instrucción\(es\) de un `case` \(caso\). Si omite el `break` de un `case`, y ese `case` coincide o se ejecuta, la ejecución continuará con las declaraciones del `case` siguiente, independientemente de la coincidencia de ese `case`. A veces, esta ejecucion "descendente \(fall through\)" es útil/deseada:
 
 ```js
 switch (a) {
@@ -55,7 +55,7 @@ switch (a) {
 
 Aquí, si `a` es `2` o `10`, ejecutará el código "// some cool stuff"
 
-Otra forma de condicional en JavaScript es el "operador condicional", a menudo llamado el "operador ternario". Es como una forma más concisa de una sola declaración `if..else`, como:
+Otra forma de condicional en JavaScript es el "operador condicional", a menudo llamado el "operador ternario". Es como una forma más concisa de una sola declaración `if..else`:
 
 ```js
 var a = 42;
@@ -72,9 +72,9 @@ var b = (a > 41) ? "hello" : "world";
 // }
 ```
 
-Si la expresión de prueba \(`a > 41` aquí\) se evalúa como verdadera, se obtiene la primera cláusula \(`"hola"`\), de lo contrario se obtiene la segunda cláusula \(`"mundo"`\).
+Si la expresión de prueba \(`a > 41`\) se evalúa como verdadera, se obtiene la primera cláusula \(`"hola"`\), de lo contrario se obtiene la segunda cláusula \(`"mundo"`\).
 
-El operador condicional no tiene que ser utilizado en una asignación, pero eso es definitivamente el uso más común.
+El operador condicional no tiene que ser utilizado en una asignación, pero este es, definitivamente, el uso más común.
 
 Nota: Para obtener más información sobre las condiciones de prueba y otros patrones de `switch` y `? :`, Vea el título Tipos y Gramática de esta serie.
 

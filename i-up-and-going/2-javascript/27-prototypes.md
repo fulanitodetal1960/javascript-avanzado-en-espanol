@@ -26,11 +26,11 @@ Puede ayudar a visualizar los objetos `foo` y `bar` y su relación:
 
 ![](/assets/Captura de pantalla 2017-08-25 a las 11.07.57 a.m..png)
 
-La propiedad `a` no existe en realidad en el objeto `bar`, sino porque `bar` está vinculada al prototipo de `foo`, JavaScript automáticamente vuelve a buscar en el objeto `foo`, donde se encuentra.
+La propiedad `a` no existe en realidad en el objeto `bar`,  pero debido a que `bar` está vinculada al prototipo de `foo`, JavaScript automáticamente vuelve a buscar en el objeto `foo`, donde la encuentra.
 
-Este vínculo puede parecer una característica extraña del lenguaje. La forma más común de usar esta característica -y yo diría, abusada- es tratar de emular/falsificar un mecanismo de "clase" con "herencia".
+Este vínculo puede parecer una característica extraña del lenguaje. La forma más común de usar esta característica -y yo diría, de forma abusiva- es tratar de emular/falsificar un mecanismo de "clase" con "herencia".
 
-Pero una forma más natural de aplicar prototipos es un patrón llamado "delegación de comportamiento", en el que intencionalmente diseña sus objetos vinculados para poder delegar de uno a otro las partes del comportamiento necesario.
+Pero una forma más natural de aplicar prototipos es con un patrón llamado "delegación de comportamiento", en el que se diseñan los objetos vinculados intencionadamente para poder delegar de unos a otros partes del comportamiento necesario.
 
 **Nota**: Para obtener más información sobre los prototipos y la delegación de comportamiento, consulte los capítulos 4-6 del título This y Objetos Prototipos de esta serie.
 

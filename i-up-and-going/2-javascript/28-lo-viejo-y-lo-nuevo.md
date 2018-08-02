@@ -2,9 +2,9 @@
 
 Algunas de las características de JS que ya hemos cubierto, y ciertamente muchas de las características cubiertas en el resto de esta serie, son nuevas incorporaciones y no necesariamente estarán disponibles en navegadores antiguos. De hecho, algunas de las características más recientes de la especificación aún no están implementadas en ningún navegador estable.
 
-Entonces, ¿qué hacemos con las cosas nuevas? ¿Sólo tenemos que esperar alrededor de unos años o décadas para que todos los viejos navegadores se desvanezcan en la oscuridad?
+Entonces, ¿qué hacemos con las cosas nuevas? ¿Sólo tenemos que esperar unos años o décadas para que todos los viejos navegadores se desvanezcan en la oscuridad?
 
-Esta es la forma en que la gente que piensa acerca de esta situación, pero en realidad no es un enfoque saludable para JS.
+Esta es la forma en que piensa la gente acerca de esta situación, pero en realidad no es un enfoque saludable para JS.
 
 Hay dos técnicas principales que puede utilizar para "llevar" las cosas nuevas de JavaScript a los navegadores más antiguos: polyfilling y transpiling.
 
@@ -26,7 +26,7 @@ if (!Number.isNaN) {
 
 La instrucción `if` lo protege contra la aplicación de la definición de polyfill en los exploradores ES6 donde ya existirá. Si no está presente, definimos `Number.isNaN(..)`.
 
-`Nota`: El chequeo que hacemos aquí se aprovecha de una peculiaridad con valores `NaN`, que es que son el único valor en todo el lenguaje que no es igual a sí mismo. Así que el valor `NaN` es el único que haría que `x !== x` sea `true`.
+`Nota`: El chequeo que hacemos aquí se aprovecha de una peculiaridad con valores `NaN`, que es el único valor en todo el lenguaje que no es igual a sí mismo. Así que el valor `NaN` es el único que haría que `x !== x` sea `true`.
 
 No todas las nuevas características son completamente polifilables. A veces la mayor parte del comportamiento puede ser polifileado, pero todavía hay pequeñas desviaciones. Usted debe ser muy, muy cuidadoso en la aplicación de un polyfill que haga usted mismo, para asegurarse de que se adhieren a la especificación tanto como sea posible.
 
@@ -78,10 +78,8 @@ El último detalle importante a destacar sobre los transpiladores es que ahora d
 
 Si utiliza un transpilador de forma predeterminada, siempre podrá hacer que cambie a la sintaxis más reciente siempre que lo encuentre útil, en lugar de esperar años para que los navegadores de hoy se eliminen progresivamente.
 
-Hay bastantes transpilers grandes para que usted elija de. Aquí hay algunas buenas opciones en el momento de escribir esto:
+Hay bastantes buenos transpilers para elejir. Tenemos algunas buenas opciones en el momento de escribir esto:
 
 * Babel \([https://babeljs.io](https://babeljs.io/)\) \(formerly 6to5\): Transpila ES6+ dentro de ES5
 * Traceur \([https://github.com/google/traceur-compiler](https://github.com/google/traceur-compiler)\): Transpila ES6, ES7, y más alla en ES5
-
-
 
