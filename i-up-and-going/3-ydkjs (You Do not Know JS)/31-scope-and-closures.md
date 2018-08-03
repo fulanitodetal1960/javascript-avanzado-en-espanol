@@ -1,14 +1,11 @@
 # 3.1 Scope & Closures
 
-Quizás una de las cosas más fundamentales que necesitará para llegar a un entendimiento rápido es cómo el scope de las variables realmente funcionan en JavaScript. No basta con tener creencias anecdóticas difusas sobre el scope.
+Quizás una de las cosas más importantes que necesitará para llegar a un entendimiento rápido es entender cómo funciona realmente 'alcance' de las variables  en JavaScript. No basta con tener ideas borrosas y anecdóticas acerca del scope.
 
-El título Scope & Closures comienza por desacreditar la idea errónea común de que JS es un "lenguaje interpretado" y por lo tanto no se compila. Nope.
+El título Scope & Closures comienza por desacreditar la idea errónea de que JS es un "lenguaje interpretado" y que por lo tanto no compilado. Nooop.
 
-El motor JS compila su código justo antes \(y a veces durante!\) la ejecución. Así que buscamos una comprensión más profunda de la aproximación del compilador a nuestro código para entender cómo encuentra y trata las declaraciones de variables y funciones. A lo largo del camino, vemos la metáfora típica para la gestión del scope de variables en JS, "Hoisting".
+El motor JS compila su código justo antes \(y a veces durante!\) la ejecución. Así que buscamos una comprensión más profunda de la aproximación del compilador a nuestro código para entender cómo encuentra y trata las declaraciones de variables y de las funciones. A lo largo del camino, comprenderemos la tíìca metáfora para la gestión del scope de las variables en JS, el "Hoisting" (elevación).
 
-Esta comprensión crítica del "alcance léxico" es en lo que entonces basamos nuestra exploración de los closures para el último capítulo del libro. Los closures son tal vez el concepto más importante en todos los de JS, pero si no ha comprendido con firmeza cómo funciona el scope, el closure probablemente permanecerá fuera de su alcance.
+Esta comprensión crítica del "alcance léxico" es en lo que basamos nuestra exploración del closure en el último capítulo del libro. El closure es quizás el concepto más importante de todos en JS, pero si no ha entendido con firmeza cómo funciona el scope (alcance), es probable que el closure (cierre) permanezca fuera de su alcance.
 
-Una aplicación importante de closures es el patrón de module, como brevemente se introdujo en este libro en el capítulo 2. El patrón de módulo es quizás el patrón de organización de código más prevalente en todo el código JavaScript; La comprensión profunda de ella debe ser una de sus prioridades más altas.
-
-
-
+Una aplicación importante del closure (cierre) es el 'module pattern' (patrón de módulo), tal como lo presentamos brevemente en el Capítulo 2 de este libro. El patrón de módulo es quizás el patrón de organización de código más frecuente en todo el código JavaScript; su profunda comprensión debería ser una de sus más altas prioridades.

@@ -21,4 +21,3 @@ Jenn Lukas
 [Jennlukas.com](http://jennlukas.com/), @jennlukas
 
 Consultor de front-end
-
