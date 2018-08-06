@@ -20,7 +20,7 @@ console.log( b );
 
 Escribir el código anterior en la consola en Chrome debería producir algo como lo siguiente:
 
-![](/assets/Captura de pantalla 2017-08-24 a las 2.18.31 p.m..png)
+![](../../assets/Captura02.png)
 
 Vamos, prueba. La mejor manera de aprender a programar es empezar a codificar!
 
