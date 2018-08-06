@@ -62,11 +62,11 @@ Como ya habrás adivinado, el mensaje que pasas al prompt \(..\) - en este caso,
 
 Esto debería ser similar a lo siguiente:
 
-![](/assets/Captura de pantalla 2017-08-24 a las 2.24.25 p.m..png)
+![](../../assets/Captura03.png)
 
 Una vez que envíe el texto de entrada haciendo clic en "Aceptar", observará que el valor que escribió se almacena en la variable de edad, que luego se emite con console.log \(..\):
 
-![](/assets/Captura de pantalla 2017-08-24 a las 2.25.11 p.m..png)
+![](../../assets/Captura04.png)
 
 Para mantener las cosas simples mientras estamos aprendiendo conceptos básicos de programación, los ejemplos en este libro no requerirán entrada. Pero ahora que has visto cómo usar el prompt \(..\), si quieres desafiarte puedes intentar usar las entradas al investigar con tus ejemplos.
 
