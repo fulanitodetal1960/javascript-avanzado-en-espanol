@@ -1,4 +1,4 @@
-# 2- Javascript
+# Capítulo 2- Javascript
 
 En el capítulo anterior, introduje los componentes básicos de programación, como variables, bucles, condicionales y funciones. Por supuesto, todo el código mostrado esta en JavaScript. Pero en este capítulo, queremos centrarnos específicamente en las cosas que debes saber sobre JavaScript para ponerte en marcha como desarrollador de JS.
 

@@ -1,4 +1,4 @@
-# 3- YDKJS (You Do not Know JS)
+# Capítulo 3- YDKJS (You Do not Know JS)
 
 ¿De qué trata esta serie?. En pocas palabras, trata de tomarse en serio la tarea de aprender todos los componentes que tiene JavaScript, no solo un subconjunto del lenguaje al que alguien llamó "la parte buena", y no solo la cantidad mínima que necesita para realizar su cometido en el trabajo.
 
