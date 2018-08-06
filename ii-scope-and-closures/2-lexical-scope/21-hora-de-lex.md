@@ -27,7 +27,7 @@ foo( 2 ); // 2 4 12
 
 Hay tres ámbitos anidados inherentes en este ejemplo de código. Puede ser útil pensar en estos ámbitos como burbujas dentro de los demás.
 
-![](/assets/Captura de pantalla 2017-08-27 a las 3.24.09 p.m..png)
+![](../../assets/Captura09.png)
 
 Burbuja 1 abarca el ámbito global, y tiene sólo un identificador en ella: `foo`.
 

@@ -26,7 +26,7 @@
     * [2.6 Identificador This](2-javascript/26-identificador-this.md)
     * [2.7 Prototypes](2-javascript/27-prototypes.md)
     * [2.8 Lo Viejo y Lo Nuevo](2-javascript/28-lo-viejo-y-lo-nuevo.md)
-    * [2.9 Non-JavaScript](2-javascript/29-non-javascript.md)
+    * [2.9 No JavaScript](2-javascript/29-non-javascript.md)
     * [2.10 Revisión](2-javascript/210-revision.md)
   * [3- En YDKJS](3-ydkjs%20(You%20Do%20not%20Know%20JS).md)
     * [3.1 Scope & Closures](3-ydkjs%20(You%20Do%20not%20Know%20JS)/31-scope-and-closures.md)

@@ -73,8 +73,3 @@ Para otros lenguajes, la traducción se hace con anterioridad, a lo que llamamos
 Normalmente, se afirma que JavaScript se interpreta, porque el código fuente de JavaScript se procesa cada vez que se ejecuta. Pero eso no es del todo exacto. El motor de JavaScript en realidad compila el programa sobre la marcha y luego ejecuta inmediatamente el código compilado.
 
 Nota: Para obtener más información sobre la compilación de JavaScript, consulte los dos primeros capítulos del título Scope & Closures de esta serie.
-
-
-
-
-

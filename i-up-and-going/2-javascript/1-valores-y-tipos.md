@@ -67,7 +67,7 @@ obj["c"];    // true
 
 Puede ser útil pensar visualmente en este valor `obj`:
 
-![](/assets/Captura de pantalla 2017-08-24 a las 9.41.40 p.m..png)
+![](../../assets/Captura05.png)
 
 Se puede acceder a las propiedades con notación de puntos \(es decir, `obj.a`\) o con notación de corchetes \(es decir, `obj["a"]`\). La notación de puntos es más corta y por lo general más fácil de leer, y por lo tanto se prefiere cuando sea posible.
 
@@ -114,7 +114,7 @@ typeof arr;        // "object"
 
 Puede ser útil pensar en un `arr` de forma visual:
 
-![](/assets/Captura de pantalla 2017-08-24 a las 9.56.33 p.m..png)
+![](../../assets/Captura06.png)
 
 Debido a que los arrays son objetos especiales \(como lo da a entender `typeof`\), también pueden tener propiedades, incluyendo la propiedad `length` actualizada automáticamente.
 
@@ -314,4 +314,3 @@ Espera, ¿cómo pueden ser `falsas` las tres comparaciones? Debido a que el valo
 La comparación `==` falla por razones diferentes. `a == b` podría fallar si se interpreta como `42 == NaN` o `"42" == "foo"` - como hemos explicado anteriormente, lo primero es la causa.
 
 **Nota**: Para obtener más información sobre las reglas de comparación de desigualdades, consulte la sección 11.8.5 de la especificación ES5 y consulte también el Capítulo 4 del título Tipos y Gramática de esta serie.
-

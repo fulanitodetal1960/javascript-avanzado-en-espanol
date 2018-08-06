@@ -24,7 +24,7 @@ bar.a;		// 42 <-- delegado a `foo`
 
 Puede ayudar a visualizar los objetos `foo` y `bar` y su relación:
 
-![](/assets/Captura de pantalla 2017-08-25 a las 11.07.57 a.m..png)
+![](../../assets/Captura07.png)
 
 La propiedad `a` no existe en realidad en el objeto `bar`,  pero debido a que `bar` está vinculada al prototipo de `foo`, JavaScript automáticamente vuelve a buscar en el objeto `foo`, donde la encuentra.
 
@@ -33,4 +33,3 @@ Este vínculo puede parecer una característica extraña del lenguaje. La forma 
 Pero una forma más natural de aplicar prototipos es con un patrón llamado "delegación de comportamiento", en el que se diseñan los objetos vinculados intencionadamente para poder delegar de unos a otros partes del comportamiento necesario.
 
 **Nota**: Para obtener más información sobre los prototipos y la delegación de comportamiento, consulte los capítulos 4-6 del título This y Objetos Prototipos de esta serie.
-

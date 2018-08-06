@@ -77,4 +77,3 @@ Si la expresión de prueba \(`a > 41`\) se evalúa como verdadera, se obtiene la
 El operador condicional no tiene que ser utilizado en una asignación, pero este es, definitivamente, el uso más común.
 
 Nota: Para obtener más información sobre las condiciones de prueba y otros patrones de `switch` y `? :`, Vea el título Tipos y Gramática de esta serie.
-

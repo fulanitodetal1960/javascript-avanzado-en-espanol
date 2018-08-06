@@ -34,7 +34,7 @@ Las reglas simples para atravesar un Scope anidado: Motor se inicia en el scope 
 
 Para visualizar el proceso de resolución anidada de un Scope, quiero que pienses en este alto edificio.
 
-![](/assets/Captura de pantalla 2017-08-26 a las 10.48.30 a.m..png)
+![](../../assets/Captura08.png)
 
 El edificio representa el conjunto de reglas de scope anidado de nuestro programa. El primer piso del edificio representa el ámbito actualmente en ejecución, dondequiera que se encuentre. El nivel superior del edificio es el alcance global.
 

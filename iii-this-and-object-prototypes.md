@@ -21,6 +21,3 @@ Yo diría que la gran mayoría de desarrolladores web probablemente nunca han co
 Nick Berardi
 
 [Nickberardi.com](/Nickberardi.com), @nberardi
-
-
-

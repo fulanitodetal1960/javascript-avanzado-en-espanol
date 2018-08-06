@@ -192,4 +192,3 @@ Es por eso que podemos llamar a `fred.login(..)` - lo mismo que llamar a `doLogi
 Hay una buena probabilidad de que con sólo este breve vistazo al closures y el patrón module, algunos de ellos sean todavía un poco confusos. ¡Está bien! Toma un poco de tiempo acostumbrar el cerebro a esto.
 
 A partir de aquí, vaya a leer el título Scope & Closures de esta serie para una exploración mucho más profunda.
-

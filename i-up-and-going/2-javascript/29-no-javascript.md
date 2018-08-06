@@ -20,4 +20,3 @@ alert(..) el favorito de todos muestra un cuadro de mensaje en la ventana del na
 Lo mismo ocurre con `console.log(..)`; Su navegador proporciona estos mecanismos y los vincula a las herramientas de desarrollo.
 
 Este libro, y toda esta serie, se centra en el lenguaje JavaScript. Es por eso que no ve ninguna cobertura sustancial de estos mecanismos non-JavaScript de JavaScript . Sin embargo, debes ser consciente de ellos, ya que estarán en todos los programas de JS que escribas.
-

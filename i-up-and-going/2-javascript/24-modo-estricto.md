@@ -50,6 +50,3 @@ Si activa el modo estricto en su código, y obtiene errores, o el código comien
 No sólo el modo estricto mantendrá su código de forma más segura, y no sólo hará que su código sea más optimizable, sino que también representa la dirección futura en la que va el lenguaje. Sería más fácil para ti acostumbrarte al modo estricto ahora, que seguir posponiéndolo, ¡después será más difícil de convertirlo!
 
 Nota: Para obtener más información sobre el modo estricto, consulte el Capítulo 5 del título Tipos y Gramática de esta serie.
-
-
-

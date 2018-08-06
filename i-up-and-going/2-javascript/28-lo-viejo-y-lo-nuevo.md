@@ -81,5 +81,4 @@ Si utiliza un transpilador de forma predeterminada, siempre podrá hacer que cam
 Hay bastantes buenos transpilers para elejir. Tenemos algunas buenas opciones en el momento de escribir esto:
 
 * Babel \([https://babeljs.io](https://babeljs.io/)\) \(formerly 6to5\): Transpila ES6+ dentro de ES5
-* Traceur \([https://github.com/google/traceur-compiler](https://github.com/google/traceur-compiler)\): Transpila ES6, ES7, y más alla en ES5
-
+* Traceur \([https://github.com/google/traceur-compiler](https://github.com/google/traceur-compiler)\): Transpila ES6, ES7, y más alla en ES5.
