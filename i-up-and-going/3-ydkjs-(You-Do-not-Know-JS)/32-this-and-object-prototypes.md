@@ -1,4 +1,4 @@
-# 3.1 This & Object Prototypes
+# 3.2 This & Object Prototypes
 
 Tal vez uno de las más difundidos y persistentes falsas afirmaciones sobre JavaScript es que la palabra clave `this` se refiere a la función en la que aparece. Grave error.
 
