@@ -1,7 +1,7 @@
 # Summary
 
-* [Introducción](README.md)
-* [Prologo](i-up-and-going.md)
+* [Introducción](../README.md)
+* [Prologo](../i-up-and-going.md)
 * [I- Up & Going](0-prefacio.md)
   * [1- En la programación](1-programacion.md)
     * [1.1 Código](1-programacion/11-codigo.md)
