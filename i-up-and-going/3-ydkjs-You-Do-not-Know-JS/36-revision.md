@@ -1,4 +1,4 @@
-# 3.6 Revisión
+## Revisión
 
 La serie YDKJS está dedicada a la tarea de que todos los desarrolladores de JS pueden y deben aprender todas las partes de este gran lenguaje. La no opinión de las personas, no presunción de un framework y la no fechas límites del proyecto deberían ser la excusa del por qué nunca aprendes y entiendes profundamente JavaScript.
 

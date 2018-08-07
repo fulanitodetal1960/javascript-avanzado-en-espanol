@@ -1,4 +1,4 @@
-# 1.1 Código
+## Código
 
 Empecemos desde el principio.
 

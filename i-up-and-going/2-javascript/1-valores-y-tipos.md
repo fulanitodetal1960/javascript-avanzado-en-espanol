@@ -1,4 +1,4 @@
-# 2.1 Valores y Tipos
+## 2.1 Valores y Tipos
 
 Como afirmamos en el Capítulo 1, JavaScript tiene valores con tipos, y no variables tipadas. Los siguientes tipos integrados están disponibles: 
 

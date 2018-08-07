@@ -1,4 +1,4 @@
-# 2.8 Lo Viejo y Lo Nuevo
+## 2.8 Lo Viejo y Lo Nuevo
 
 Algunas de las características de JS que ya hemos cubierto, y ciertamente muchas de las características cubiertas en el resto de esta serie, son nuevas incorporaciones y no necesariamente estarán disponibles en navegadores antiguos. De hecho, algunas de las características más recientes de la especificación aún no están implementadas en ningún navegador estable.
 

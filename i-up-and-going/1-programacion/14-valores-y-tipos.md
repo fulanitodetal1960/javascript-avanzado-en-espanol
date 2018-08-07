@@ -1,4 +1,4 @@
-# 1.4 Valores y Tipos
+## Valores y Tipos
 
 Si le preguntas a un empleado en una tienda de teléfono cuánto cuesta un teléfono determinado, y le dicen "noventa y nueve con noventa y nueve" \(es decir, $ 99.99\), te están dando una cifra numérica real que representa lo que vas a necesitar pagar \(más impuestos\) para comprarlo. Si usted quiere comprar dos de esos teléfonos, puede hacer un calculo mental fácilmente para duplicar ese valor y obtener $ 199.98 de costo base.
 

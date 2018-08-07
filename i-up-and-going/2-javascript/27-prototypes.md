@@ -1,4 +1,4 @@
-# 2.7 Prototypes
+## 2.7 Prototypes
 
 El mecanismo prototype en JavaScript es bastante complicado. Sólo le echaremos un vistazo aquí. Usted querrá pasar un montón de tiempo revisando los capítulos 4-6 del título de this y los objetos prototipos de esta serie para todos los detalles.
 

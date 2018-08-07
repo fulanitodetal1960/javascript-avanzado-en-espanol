@@ -1,4 +1,4 @@
-# 2.10 Revisión
+## 2.10 Revisión
 
 El primer paso para aprender el sabor de la programación en JavaScript es obtener una comprensión básica de sus mecanismos básicos como valores, tipos, closures functions, this y prototipos.
 

@@ -1,4 +1,4 @@
-# 1.8 Condicionales
+## Condicionales
 
 "¿Desea agregar los protectores de pantalla adicionales a su compra, por $ 9.99?". El empleado de la tienda telefónica le ha pedido que tome una decisión. Y puede que necesite consultar primero el estado actual de su cartera o cuenta bancaria para responder a esa pregunta. Pero, obviamente, esto es sólo una simple pregunta "sí o no".
 
@@ -47,6 +47,3 @@ JavaScript define una lista de valores específicos que se consideran "falsos" p
 Ademas de `if` existen otras formas de condicionales. Por ejemplo, la instrucción `switch` puede usarse como una abreviatura para una serie de instrucciones `if..else` \(vea el Capítulo 2\). Los bucles \(ver "Loops"\) usan un condicional para determinar si el bucle debe continuar o detenerse.
 
 **Nota**: Para obtener información más detallada sobre las transformaciones que puedan producirse implícitamente en las expresiones de los condicionales en los ejemplos de prueba, consulte el Capítulo 4 de esta serie con el título _Tipos y Gramática_.
-
-
-

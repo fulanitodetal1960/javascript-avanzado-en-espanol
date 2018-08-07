@@ -1,4 +1,4 @@
-# 2.6 Identificador `This`
+## 2.6 Identificador `This`
 
 Otro concepto muy comúnmente mal entendido en JavaScript es el identificador `this`. Una vez más, hay un par de capítulos sobre él de esta serie, así que aquí vamos a introducir brevemente el concepto.
 

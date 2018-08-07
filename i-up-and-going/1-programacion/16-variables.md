@@ -1,4 +1,4 @@
-# 1.6 Variables
+## Variables
 
 La mayoría de los programas útiles necesitan rastrear un valor a medida que cambia a lo largo del programa, pasando por diferentes operaciones según lo solicitado por las tareas previstas de su programa.
 
@@ -77,6 +77,3 @@ Las constantes con valores que no cambian son útiles al igual que las variable,
 Asi mismo, ese tipo de "protección" contra los errores es similar al tipo de tipificación estática, por lo que se puede ver por qué los tipos estáticos en otros lenguajes pueden ser atractivos!
 
 **Nota**: Para obtener más información de cómo su programa pueden utilizar diferentes valores en las variables, consulte el título Tipos y Gramática de esta serie.
-
-
-

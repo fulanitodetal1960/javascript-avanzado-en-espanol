@@ -1,4 +1,4 @@
-# 3.1 Scope & Closures
+## Scope & Closures
 
 Quizás una de las cosas más importantes que necesitará para llegar a un entendimiento rápido es entender cómo funciona realmente 'alcance' de las variables  en JavaScript. No basta con tener ideas borrosas y anecdóticas acerca del scope.
 

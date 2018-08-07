@@ -1,4 +1,4 @@
-# 1.2 Inténtalo tú mismo
+## Inténtalo tú mismo
 
 Este capítulo presentará cada concepto de programación con simples fragmentos de código, todo escrito en JavaScript \(¡obviamente!\).
 

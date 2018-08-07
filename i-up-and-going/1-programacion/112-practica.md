@@ -1,4 +1,4 @@
-# 1.12 Práctica
+## Práctica
 
 No hay absolutamente ningún sustituto para la práctica en el aprendizaje de la programación. Ninguna cantidad de escritos bien articulados por mi parte seran lo único que te convertirá en un buen programador.
 
@@ -65,8 +65,3 @@ if (amount > bank_balance) {
 **Nota**: La forma más sencilla de ejecutar este programa JavaScript es escribirlo en la consola de desarrollo de su navegador favorito.
 
 ¿Como lo hiciste? No te haría daño intentarlo otra vez ahora que has visto mi código. Y jugar con el cambio de algunas de las constantes para ver cómo se ejecuta el programa con diferentes valores.
-
-
-
-
-

@@ -1,4 +1,4 @@
-# 1.5 Comentar el código
+## Comentar el código
 
 El empleado de la tienda telefónica puede tomar notas de las características de un teléfono recién lanzado o sobre los nuevos planes que su empresa ofrece. Estas notas son sólo para el empleado - no son para que las lean los clientes. Sin embargo, estas notas ayudan al empleado a hacer mejor su trabajo documentando los comos y porqués de lo que debe decir a los clientes.
 
@@ -59,6 +59,3 @@ console.log( a );	// 42
 Lo único que no puede aparecer dentro de un comentario de varias líneas es un **\* /**, porque eso sería interpretado para finalizar el comentario.
 
 Sin duda querrá comenzar su aprendizaje de programación comenzando con el hábito de comentar el código. A lo largo del resto de este capítulo, verá que uso comentarios para explicar las cosas, haga lo mismo con suss prácticas. Confíe en mí, ¡todos los que lean su código se lo agradecerán!
-
-
-

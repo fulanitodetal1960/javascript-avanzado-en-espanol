@@ -1,4 +1,4 @@
-# 3.3 Tipos & Gramática
+## Tipos & Gramática
 
 El tercer título de esta serie se centra principalmente en abordar otro tema muy polémico: la coerción de tipos. Tal vez ningún tema causa más frustración en los desarrolladores de JS que cuando se habla de las confusiones que rodean la coerción implícita.
 

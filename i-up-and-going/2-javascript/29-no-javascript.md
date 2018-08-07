@@ -1,4 +1,4 @@
-# 2.9 Non-JavaScript
+## 2.9 Non-JavaScript
 
 Hasta ahora, las únicas cosas que hemos cubierto están en el propio lenguaje JS. La realidad es que la mayor parte de
  de JS está escrito para funcionar e interactuar con entornos como los navegadores. Una buena parte de las cosas que usted escribe en su código, estrictamente hablando, no están directamente controladas por JavaScript. Eso probablemente suena un poco extraño.

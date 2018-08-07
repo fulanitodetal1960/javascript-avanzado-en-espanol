@@ -1,4 +1,4 @@
-# 1.13 - Revisión
+## Revisión
 
 El aprendizaje de la programación no tiene que ser un proceso complejo y abrumador. Sólo hay algunos conceptos básicos que necesita retener en la cabeza.
 
@@ -18,4 +18,3 @@ Por último, no descuiden el poder de la práctica. La mejor manera de aprender 
 ¡Estoy emocionado de que estés en el camino de aprender a programar, en este momento! Sigue así. No olvide consultar otros recursos de programación para principiantes \(libros, blogs, formación en línea, etc.\). Este capítulo y este libro son un gran comienzo, pero son sólo una breve introducción.
 
 El siguiente capítulo revisará muchos de los conceptos de este capítulo, pero desde una perspectiva más específica de JavaScript, que resaltará la mayoría de los principales temas que se abordan con más detalle en el resto de la serie.
-

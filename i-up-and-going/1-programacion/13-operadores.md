@@ -1,4 +1,4 @@
-# 1.3 Operadores
+## Operadores
 
 Los operadores son los que realizan acciones sobre variables y valores. Ya hemos visto dos operadores de JavaScript, el `=` y el `*`.
 
@@ -44,6 +44,3 @@ console.log( a );	// 42
 * Lógico: **'&&'** \(y\), **'\|\|'** \(O\), como en `a || b` que selecciona a o b. Estos operadores se usan para expresar condicionales compuestos \(ver "Condicionales"\), como si a o b es verdadero.
 
 **Nota**: Para obtener más detalles y cobertura de operadores que no se mencionan aquí, consulte "Expresiones y operadores" de Mozilla Developer Network \(MDN\) [\(https://developer.mozilla.org/en-US/docs/Web/JavaScript / Guía / Expresiones\_y\_Operadores\).](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-
-
-

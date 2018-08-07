@@ -1,4 +1,4 @@
-# 1.9 Bucles
+## Bucles
 
 Durante las horas punta, hay una lista de espera para los clientes que necesitan hablar con el empleado de la tienda telefónica. Mientras hayan personas en esa lista, solo se necesita seguir atendiendo al próximo cliente.
 
@@ -74,6 +74,3 @@ Como puede ver, en ambos casos el condicional` i <= 9` es verdadero para las pri
 El bucle `for` tiene tres cláusulas: la cláusula de inicialización \(`var i = 0`\), la cláusula de prueba condicional \(`i <= 9`\) y la cláusula de actualización \(`i = i + 1`\). Así que si vas a contar con su bucle de iteraciones, `for` es una forma más compacta y, a menudo, más fácil de entender y escribir.
 
 Hay otras formas de bucle especializados que están destinados a iterar sobre valores específicos, como las propiedades de un objeto \(véase el capítulo 2\), donde la prueba condicional implícita es solo ver si todas las propiedades han sido procesadas. El concepto de "bucle hasta que una condición falla" se cumple sin importar la forma del bucle.
-
-
-

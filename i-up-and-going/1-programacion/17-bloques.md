@@ -1,4 +1,4 @@
-# 1.7 Bloques
+## Bloques
 
 El cliente de la tienda telefónica debe pasar por una serie de pasos para completar la compra mientras compra su teléfono nuevo.
 
@@ -29,6 +29,3 @@ if (amount > 10) {			// <-- block attached to `if`
 Vamos a explicar la declaracion `if` en la siguiente sección, pero como puede ver, el bloque `{..}` con sus dos declaraciones se adjunta a un `if (amount > 10)`; Las declaraciones dentro del bloque sólo se procesarán si pasa el condicional.
 
 Nota: A diferencia de la mayoría de otras sentencias como `console.log(amount);`, una instrucción de bloque no necesita un punto y coma \(;\) para concluirlo.
-
-
-

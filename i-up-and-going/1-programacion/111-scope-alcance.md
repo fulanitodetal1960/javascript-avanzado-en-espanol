@@ -1,4 +1,4 @@
-# 1.11 Scope \(Ámbito\)
+## Scope \(Ámbito\)
 
 Si le pregunta al empleado de la tienda de teléfonos por un modelo de teléfono que su tienda no tiene, no podrá venderle el teléfono que desea. Sólo tiene acceso a los teléfonos en el inventario de su tienda. Tendrás que buscar otra tienda para ver si puedes encontrar el teléfono que estás buscando.
 
@@ -68,4 +68,3 @@ function calculateFinalPurchaseAmount(amt) {
 La constante `TAX_RATE` \(variable\) es accesible desde dentro de la función `calculateFinalPurchaseAmount(..)`, aunque no la pasamos, debido al alcance léxico.
 
 **Nota**: Para obtener más información sobre el ámbito léxico, consulte los tres primeros capítulos del título Scope & Closures de esta serie.
-

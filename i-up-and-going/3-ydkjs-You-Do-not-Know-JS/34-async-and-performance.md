@@ -1,4 +1,4 @@
-# 3.4 Async & Performance (Asíncrono y Rendimiento)
+## Async & Performance (Asíncrono y Rendimiento)
 
 Los tres primeros títulos de esta serie se centran en la mecánica básica del lenguaje, pero el título cuarto se ramifica ligeramente para abarcar los patrones sobre la mecánica del lenguaje para gestionar la programación asincrona. La asincronía no solo es fundamental para el rendimiento de nuestras aplicaciones, sino que se está convirtiendo cada vez más en un factor crítico de la capacidad de escritura y mantenimiento.
 

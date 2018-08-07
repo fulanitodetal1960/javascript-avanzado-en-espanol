@@ -1,4 +1,4 @@
-# 2.3 Condicionales
+## 2.3 Condicionales
 
 Además de la declaración `if` que introdujimos brevemente en el Capítulo 1, JavaScript proporciona más mecanismos condicionales a los que deberíamos echar un vistazo.
 

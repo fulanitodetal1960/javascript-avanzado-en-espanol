@@ -1,4 +1,4 @@
-# 2.4 Modo estricto
+## 2.4 Modo estricto
 
 ES5 agregó un "modo estricto" al lenguaje, que trata las reglas de forma más rigurosa para ciertos comportamientos. Generalmente, estas restricciones se consideran como un conjunto de directrices para mantener el código más seguro. Además, la adhesión al modo estricto hace que su código en general sea más optimizable por el motor. El modo estricto es un gran triunfo para el código, y deberías usarlo para todos tus programas.
 

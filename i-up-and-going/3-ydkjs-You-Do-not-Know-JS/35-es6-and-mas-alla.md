@@ -1,4 +1,4 @@
-# 3.5 ES6 y  Algo Más
+## ES6 y  Algo Más
 
 No importa cuánto sienta que domina JavaScript hasta el momento, la verdad es que JavaScript nunca va a dejar de evolucionar y, además, la tasa de evolución está aumentando rápidamente. Este hecho es casi una metáfora del espíritu de esta serie, aceptar que nunca sabremos en profundidad cada aspecto de JS, porque tan pronto como lo domines, van a haber nuevas cosas en la línea que necesitaras aprender.
 

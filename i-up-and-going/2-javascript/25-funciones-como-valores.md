@@ -1,4 +1,4 @@
-# 2.5 Funciones como Valores
+## 2.5 Funciones como Valores
 
 Hasta ahora, hemos discutido las funciones como el principal mecanismo de scope en JavaScript. Puede recordar la sintaxis típica de la declaración de funciones de la siguiente manera:
 

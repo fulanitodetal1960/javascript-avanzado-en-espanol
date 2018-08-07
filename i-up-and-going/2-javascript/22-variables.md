@@ -1,4 +1,4 @@
-# 2.2 Variables
+## 2.2 Variables
 
 En JavaScript, los nombres de las variables \(incluidos los nombres de las funciones\) deben ser identificadores válidos. Las reglas estrictas y completas para caracteres válidos en identificadores son un poco complejas cuando se consideran caracteres no tradicionales como los Unicode. Sin embargo, si sólo se consideran caracteres alfanuméricos ASCII típicos, las reglas son simples.
 

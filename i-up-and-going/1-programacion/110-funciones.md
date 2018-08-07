@@ -1,4 +1,4 @@
-# 1.10 Funciones
+## Funciones
 
 El empleado de la tienda de teléfonos probablemente no lleva consigo una calculadora para calcular los impuestos y la cantidad final de la compra. Esa es una tarea que necesita definir una vez y reutilizarla una y otra vez. Lo más probable es, que la compañía tenga una caja registradora \(computadora, tableta, etc.\) con esas "funciones" incorporadas.
 
@@ -64,6 +64,3 @@ console.log( amount.toFixed( 2 ) );		// "107.99"
 ```
 
 Aunque `calculateFinalPurchaseAmount(..)` solo se llama una vez, organizar su funcionamiento ,en una función con nombre, por separado hace que el código que usa su lógica \(la declaración `amount = calculateFinal...`\) sea más limpio. Si la función tuviera más declaraciones, los beneficios serían aún más pronunciados.
-
-
-
